@@ -1,5 +1,7 @@
 # Simple Embedding-based Retrieval
 
+<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/b6fcfca4-6144-43a5-b3a5-db96be9020d8" />
+
 This demo shows how to convert text to vector embeddings and find the document(s) most similar to a user query using cosine similarity.
 
 ## Run
